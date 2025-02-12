@@ -4,7 +4,7 @@
 
 ### :man_technologist: About me:
 
-I'm a game developer. 
+I'm a developer. 
 
 <p align="center">
  <img width="900" src="assets/github-snake-dark-s.svg" alt="snake"/>
